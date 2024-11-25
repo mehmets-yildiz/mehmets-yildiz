@@ -1,3 +1,5 @@
+(![La vie est douce !](https://github.com/user-attachments/assets/caad227e-061b-4ce3-b0e7-375a7f1af83e))
+
 ## Bonjour, je suis Mehmet Yildiz! 👋
 
 Je suis un étudiant de développement logiciel passionné par la technologie. J'adore essayer de résoudre des problèmes grâce à des solutions techniques. Contribuer au monde de l'open source et aider la communauté sont des aspects qui me tiennent à cœur.
