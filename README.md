@@ -1,4 +1,6 @@
-(![La vie est douce !](https://github.com/user-attachments/assets/caad227e-061b-4ce3-b0e7-375a7f1af83e))
+
+![La vie est douce !](https://github.com/user-attachments/assets/749a9941-4a22-4b4c-a3b5-beaf3f604b95)
+
 
 ## Bonjour, je suis Mehmet Yildiz! 👋
 
