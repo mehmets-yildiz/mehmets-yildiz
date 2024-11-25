@@ -10,4 +10,4 @@ Actuellement, je travaille sur [Proje de Fansite](https://github.com/mehmets-yil
 
 👉 [Mon Profil GitHub](https://github.com/mehmets-yildiz)
 
-Pour mon profil LinkedIn 👉 [LinkedIn]([https://github.com/mehmets-yildiz](https://www.linkedin.com/in/mehmet-y%C4%B1ld%C4%B1z-721b74164/)
+Pour mon profil LinkedIn 👉 [LinkedIn](https://www.linkedin.com/in/mehmet-y%C4%B1ld%C4%B1z-721b74164/)
